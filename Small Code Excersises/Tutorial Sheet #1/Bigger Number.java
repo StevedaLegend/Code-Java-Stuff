@@ -1,4 +1,4 @@
-class Excersise11 {
+class BiggerNumber {
 
     // Prints the larger of two integers
 
